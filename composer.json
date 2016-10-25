@@ -1,5 +1,5 @@
 {
-    "name": "MI-LA01/doctrine-orm-service-provider",
+    "name": "mi-la01/doctrine-orm-service-provider",
     "description": "Doctrine ORM Service Provider",
     "keywords": ["pimple", "cilex", "silex", "doctrine", "orm"],
     "homepage": "http://dflydev.com/projects/doctrine-orm-service-provider/",
